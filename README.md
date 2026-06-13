@@ -334,14 +334,4 @@ Successfully developed an end-to-end analytics solution that transformed raw cus
 
 The project demonstrates practical Data Analyst skills including data preparation, database management, SQL querying, dashboard development, reporting, and business-focused analysis. It provides actionable recommendations that can support customer retention, revenue growth, and strategic decision-making.
 
----
 
-## AUTHOR
-
-**Anushka Yadav**
-
-B.Tech (CSE - AI & ML)
-
-Aspiring Data Analyst
-
-Skills: Python | SQL | PostgreSQL | Power BI | Excel | Data Analytics
