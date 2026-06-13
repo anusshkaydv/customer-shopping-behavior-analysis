@@ -212,9 +212,9 @@ The dashboard enables dynamic exploration of customer behavior and business perf
 
 ### Overview Dashboard
 
-![Dashboard](customer behavior dashboard.png)
+![customer behavior dashboard](customer behavior dashboard.png)
 
-> Replace the image path above with your actual screenshot path.
+
 
 ---
 
