@@ -219,7 +219,7 @@ The Power BI dashboard provides an interactive view of customer behavior, revenu
 ---
 ## Demo Video
 👉 Watch the dashboard demo here:  
-![Customer Behavior Analysis](customer_analysis.mp4)
+![Customer Behavior Analysis]([customer_analysis.mp4](https://drive.google.com/file/d/1OyRsWQ0SflD-lDBdrKW1hY7cN6srfS8f/view?usp=sharing))
 
 ---
 ## KEY INSIGHTS
