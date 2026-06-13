@@ -212,8 +212,8 @@ The dashboard enables dynamic exploration of customer behavior and business perf
 
 ### Overview Dashboard
 
-![customer behavior dashboard](customer behavior dashboard.png)
-
+The Power BI dashboard provides an interactive view of customer behavior, revenue trends, category performance, subscription analysis, and age-group segmentation.
+![Customer Behavior Dashboard](customer%20behavior%20dashboard.png)
 
 
 ---
